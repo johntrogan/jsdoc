@@ -1,6 +1,6 @@
 {
   "name": "@jsdoc/core",
-  "version": "0.5.10",
+  "version": "0.5.11",
   "description": "Core functionality for JSDoc.",
   "keywords": [
     "jsdoc"
@@ -31,9 +31,9 @@
     }
   },
   "dependencies": {
-    "@jsdoc/doclet": "^0.2.13",
-    "@jsdoc/parse": "^0.3.13",
-    "@jsdoc/tag": "^0.2.13",
+    "@jsdoc/doclet": "^0.2.14",
+    "@jsdoc/parse": "^0.3.14",
+    "@jsdoc/tag": "^0.2.14",
     "cosmiconfig": "^9.0.0",
     "fast-glob": "^3.3.3",
     "lodash": "^4.17.23",
